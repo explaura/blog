@@ -87,7 +87,7 @@
 	--theme-surface-2: #203422;
 	--theme-on-surface-2: #ffffff;
 
-	--theme-shape-radius: 0;
+	--theme-shape-radius: clamp(1rem, 2rem, 3rem);
 
 	--form-field-input-color: var(--theme-on-bg);
 }
