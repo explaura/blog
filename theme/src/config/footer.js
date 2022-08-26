@@ -34,7 +34,7 @@ export const footerLists = [
 		items: [
 			{
 				title: 'About',
-				slug: '/company/about',
+				slug: '/about',
 			},
 			{
 				title: 'Blog',
@@ -42,7 +42,7 @@ export const footerLists = [
 			},
 			{
 				title: 'Contact',
-				slug: '/company/contact',
+				slug: '/contact',
 			},
 		],
 	},

@@ -82,11 +82,11 @@ export const nav = [
   },
   {
     title: "About",
-    slug: "/company/about",
+    slug: "/about",
   },
   {
     title: "Contact",
-    slug: "/company/contact",
+    slug: "/contact",
   },
 ];
 ```
