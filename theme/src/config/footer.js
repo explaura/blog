@@ -1,25 +1,16 @@
 import {
-	twitterIcon,
-	youtubeIcon,
 	githubIcon,
 	instagramIcon,
 } from '../icons/icons';
 
 export const footerSocials = [
+	// TODO: LinkedIn
 	{
-		url: 'https://instagram.com/',
+		url: 'https://www.instagram.com/baaxxtr/',
 		icon: instagramIcon,
 	},
 	{
-		url: 'https://youtube.com/',
-		icon: youtubeIcon,
-	},
-	{
-		url: 'https://twitter.com/littlesticksdev',
-		icon: twitterIcon,
-	},
-	{
-		url: 'https://github.com/littlesticksdev/odyssey-theme',
+		url: 'https://github.com/explaura',
 		icon: githubIcon,
 	},
 ];
