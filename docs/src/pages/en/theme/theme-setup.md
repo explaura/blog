@@ -137,10 +137,6 @@ export const footerLists = [
         title: 'Landing Page 1',
         slug: '/landing-pages/landing-1',
       },
-      {
-        title: 'Landing Page 2',
-        slug: '/landing-pages/landing-2',
-      },
     ],
   },
   ...
