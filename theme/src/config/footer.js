@@ -17,16 +17,7 @@ export const footerSocials = [
 
 export const footerLists = [
 	{
-		title: 'Landing Pages',
-		items: [
-			{
-				title: 'Landing Page 1',
-				slug: '/landing-pages/landing-1',
-			},
-		],
-	},
-	{
-		title: 'Company',
+		title: 'Me',
 		items: [
 			{
 				title: 'About',
@@ -39,19 +30,6 @@ export const footerLists = [
 			{
 				title: 'Contact',
 				slug: '/contact',
-			},
-		],
-	},
-	{
-		title: 'Theme',
-		items: [
-			{
-				title: 'Get Started',
-				slug: '/theme/get-started',
-			},
-			{
-				title: 'Style Guide',
-				slug: '/theme/style-guide',
 			},
 		],
 	},
